@@ -1,15 +1,17 @@
-<h1>Hi, repositories are currently in private.
+<h1>
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
 CR Rankings {Rankings Only}
   - Scraper
   - Airflow for cron job
+  - Docker
   - Dashboard
 
 CR Products Specs ETL
    - Scraper
    - AWS S3, Lambda, Glue
+   - Docker
 
 Vacuum Cleaners Ratings and Reviews API
   - Retailers Scraper
