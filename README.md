@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
-<a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
+1 a.) <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
 ![cr_rankings_etl](https://github.com/kwoolaid725/github-portfolio/assets/107806433/62798bca-b66e-497a-81c5-3a6a32eb4bfa)
-<a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> Consumer Reports Rankings ETL - Dockerized / Airflow / PySpark / AWS S3 / Superset </a>![cr_ranking_etl_-_dockerized](https://github.com/kwoolaid725/github-portfolio/assets/107806433/696d0117-9709-4a19-8ccd-ea08091065cf)
 
+1 b.) <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> Consumer Reports Rankings ETL - Dockerized / Airflow / PySpark / AWS S3 / Superset </a>![cr_ranking_etl_-_dockerized](https://github.com/kwoolaid725/github-portfolio/assets/107806433/696d0117-9709-4a19-8ccd-ea08091065cf)
+
+
+** <b>Currently in progress of turning below repos from private to public ** </b>
 
 Consumer Reports Products Specs ETL - OnPrem ver. <br>
 Consumer Reports Products Specs ETL - AWS / Airflow / PySpark  
