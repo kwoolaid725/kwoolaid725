@@ -2,22 +2,19 @@
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
-<h3> 1.  <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> </h3> <br>
-    
+ 1. <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
     <img width="397" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/e2df16f6-9e73-4975-8a7f-8d9efe5e2286">
 
- <h3>  <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a> </h3>
-    
-     <img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
+    <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a>
+    <img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
 
-<h3> 2. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a> </h3>
+ 2. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a> 
 
-<h3> <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a> </h3>
-
-     <img width="394" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/562ae412-c3fb-4718-8265-f5fab81bad83">
+ 3. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a> <br>
+    <img width="394" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/562ae412-c3fb-4718-8265-f5fab81bad83">
 
 
-<h3> 4. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> </h3>
+4. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> 
 --------------------------------
 
 ** <b>Currently in progress of turning below repos from private to public ** </b>
