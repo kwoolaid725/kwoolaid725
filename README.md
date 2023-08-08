@@ -3,9 +3,13 @@
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
 1 a.) <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
-![cr_rankings_etl](https://github.com/kwoolaid725/github-portfolio/assets/107806433/62798bca-b66e-497a-81c5-3a6a32eb4bfa)
+<img width="397" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/e2df16f6-9e73-4975-8a7f-8d9efe5e2286">
 
-1 b.) <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> Consumer Reports Rankings ETL - Dockerized / Airflow / PySpark / AWS S3 / Superset </a>![cr_ranking_etl_-_dockerized](https://github.com/kwoolaid725/github-portfolio/assets/107806433/696d0117-9709-4a19-8ccd-ea08091065cf)
+
+
+1 b.) <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> Consumer Reports Rankings ETL - Dockerized / Airflow / PySpark / AWS S3 / Superset </a>
+<img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
+
 
 
 ** <b>Currently in progress of turning below repos from private to public ** </b>
