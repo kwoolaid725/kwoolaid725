@@ -10,7 +10,6 @@
  b.) {work in progress} <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> Consumer Reports Rankings ETL - Dockerized / Airflow / PySpark / AWS S3 / Superset </a>
 <img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
 
-
 2. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US Home Research - Zillow </a>
 
 ** <b>Currently in progress of turning below repos from private to public ** </b>
