@@ -10,17 +10,14 @@
  b.) {work in progress} <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> Consumer Reports Rankings ETL - Dockerized / Airflow / PySpark / AWS S3 / Superset </a>
 <img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
 
-2. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a>
+2. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a>
 
-3. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US Home Research - Zillow </a>
+3. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a>
 
 <img width="394" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/562ae412-c3fb-4718-8265-f5fab81bad83">
 
 
 ** <b>Currently in progress of turning below repos from private to public ** </b>
-
-Consumer Reports Products Specs ETL - OnPrem ver. <br>
-Consumer Reports Products Specs ETL - AWS / Airflow / PySpark  
 
 Vacuum Cleaners Ratings and Reviews API
   - Retailers Scraper
@@ -29,19 +26,10 @@ Vacuum Cleaners Ratings and Reviews API
   - Vacuum Pictures Saved in S3
   - Order by Highest Ratings
 
-
- - Zillow Scraper
- - Data Transformation
- - Analytics
-
 OpenCV Robot Vac Navigation
  - OpenCV
 
 UL Standards Classification
-
-
-
- - 
 
 
 < Old Automation Tools > 
@@ -49,7 +37,6 @@ UL Standards Classification
 - Python codes
 - Excel VBA Codes
   
-
 
 
 <h2> Connect with me:</h2>
