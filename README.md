@@ -7,16 +7,17 @@
 
 
     <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a>
+     <img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
 
-    <img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
+ 3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a>
+     <img width="430" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/ca2b38a0-e121-49cd-b93a-186a455b5b73">
 
- 3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a> 
 
- 4. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a> <br>
+ 5. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a> <br>
     <img width="394" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/562ae412-c3fb-4718-8265-f5fab81bad83">
 
 
-5. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> 
+6. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> 
 --------------------------------
 
 ** <b>Currently in progress of turning below repos from private to public ** </b>
