@@ -3,7 +3,8 @@
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
  1. <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
-    <img width="397" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/e2df16f6-9e73-4975-8a7f-8d9efe5e2286">
+    <img width="400" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/5a8fee35-8f02-401c-8ffd-858eaf096982">
+
 
     <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a>
 
