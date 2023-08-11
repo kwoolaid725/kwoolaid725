@@ -18,7 +18,9 @@
  5. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a> <br>
     <img width="394" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/562ae412-c3fb-4718-8265-f5fab81bad83">
     
- 4.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> VoC / Customer Reviews NLP </a> <br>
+ 4.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
+     ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/fe4ee5f3-cb4a-442a-bfcb-a02cab844751)
+
      
 6. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> 
 --------------------------------
