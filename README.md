@@ -10,7 +10,8 @@
      <img width="378" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/6c6f7115-0d67-4ebf-8baf-d11bfba3b9de">
 
  3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a>
-      ![vacuum-fastapi-dash-etl-app (2)](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/10903d38-4467-4785-8065-c92bcb633b0b)
+    <img width="468" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/d2b0979f-90f5-4ed0-b7c1-2011e8f585a9">
+
 
 
 
@@ -19,7 +20,8 @@
     <img width="394" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/562ae412-c3fb-4718-8265-f5fab81bad83">
     
  4.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
-     ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/fe4ee5f3-cb4a-442a-bfcb-a02cab844751)
+     <img width="468" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/0d42d1f5-5205-4346-a948-d460b0efcb0e">
+
 
      
 6. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> 
