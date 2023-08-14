@@ -13,14 +13,10 @@
  3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a>
     <img width="468" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/d2b0979f-90f5-4ed0-b7c1-2011e8f585a9">
 
-
-
-
-
- 5. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a> <br>
+ 4. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) - OnPrem ver. </a> <br>
     <img width="394" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/562ae412-c3fb-4718-8265-f5fab81bad83">
     
- 4.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
+ 5.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
      <img width="468" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/0d42d1f5-5205-4346-a948-d460b0efcb0e">
 
 
@@ -28,14 +24,6 @@
 6. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> 
 --------------------------------
 
-** <b>Currently in progress of turning below repos from private to public ** </b>
-
-Vacuum Cleaners Ratings and Reviews API
-  - Retailers Scraper
-
-  - Reviews NLP -> keywords
-  - Vacuum Pictures Saved in S3
-  - Order by Highest Ratings
 
 OpenCV Robot Vac Navigation
  - OpenCV
