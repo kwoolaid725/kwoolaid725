@@ -17,6 +17,8 @@
     
  5.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
      <img width="468" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/0d42d1f5-5205-4346-a948-d460b0efcb0e">
+     ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/091c4de2-11a7-4ccb-81a5-ce0a6c8c1fc1)
+
 
 
      
