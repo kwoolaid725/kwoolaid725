@@ -3,14 +3,12 @@
 <h2>👨‍💻 Data Engineering / Backend Development Projects:</h2>
 
  1. <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
-    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/56d147d9-e369-479c-a024-89a592a1aa0a)
-
-
+    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/d2d6c135-e343-44b3-b01b-98c01c6df8be)
 
 
 
     <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a>
-    <img width="720" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/3f30a18a-365c-4a99-a37c-09f310825090">
+    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/720db42b-1560-428d-b5b2-cdbebf14fe31)
 
 
  3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a>
