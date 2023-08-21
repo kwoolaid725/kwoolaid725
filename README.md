@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Engineering / Backend Development Projects:</h2>
 
  1. <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
-    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/d2d6c135-e343-44b3-b01b-98c01c6df8be)
+    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/3f31379b-79c6-41c3-a667-8ecc8466fc68)
 
 
 
