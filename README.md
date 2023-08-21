@@ -13,8 +13,7 @@
 
 
  3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Vacuum Lab Full-Stack Web App + REST API - FastAPI / Dash / HTMX / </a>
-   ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/d0e07b84-cad5-43d9-8237-9585380d0ec0)
-
+   ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/7ccaf02d-f092-4b6a-ba67-5a60c99c0845)
 
 
 
