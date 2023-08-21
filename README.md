@@ -8,7 +8,8 @@
 
 
     <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a>
-    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/720db42b-1560-428d-b5b2-cdbebf14fe31)
+    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/29a5253f-2db6-4fb8-a123-23a0ed09a56d)
+
 
 
  3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Full-Stack Vacuum Lab API Web + ETL - FastAPI / Dash / HTMX / Javascript / </a>
