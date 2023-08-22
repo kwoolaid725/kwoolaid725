@@ -1,6 +1,6 @@
-### *Please note that the items below are in their final forms. I am in the process of adjusting and migrating the privately saved repositories!
 
-<h2>👨‍💻 Data Engineering / Backend Development Projects:</h2>
+
+<h2>👨‍💻 Development Projects:</h2>
 
 **Work Related**
 
