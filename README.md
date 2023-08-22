@@ -1,6 +1,6 @@
 
 
-<h2>👨‍💻 Development Projects:</h2>
+<h2>👨‍💻 Projects I've Done:</h2>
 
 **Work Related**
 
