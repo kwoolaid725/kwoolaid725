@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Engineering / Backend Development Projects:</h2>
 
+**Work Related**
+
  1. <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
     ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/3f31379b-79c6-41c3-a667-8ecc8466fc68)
 
@@ -15,19 +17,24 @@
 
 
     
- 6.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
-    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/c02c8c46-b63f-4cef-b32a-9321684bb6bb)
+ 4.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
+    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/ec6ec417-98de-463d-a044-cd9f80a35fd3)
 
-    
+
 
  5. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) </a> <br>
-   ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/eb3fccad-210a-4a93-9ba1-de190c11f866)
+   ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/a79e0d92-13c2-4b4d-9809-50f1cfd77ae8)
+
 
 
      
 -------------------------------------------------------
+**Side Projects** 
 
-7. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification  </a> 
+ 6. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification ETL  </a>
+ 7. End-to-End Spotify
+   ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/7ae35a91-96e8-4d44-a814-3e9d9eb9dc33)
+
 --------------------------------
 
 
