@@ -2,37 +2,41 @@
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
-**Work Related**
+**Projects**
+--------------------------------------------
 
- 1. <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
-    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/3f31379b-79c6-41c3-a667-8ecc8466fc68)
+> <a href= https://github.com/kwoolaid725/halab-webapp-drf-react> 1. Full-Stack Web Application for a Home Appliance Lab </a> <br>
+![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/5a7b7d1f-878d-4dfc-931a-ee60a23da2b8)
 
+--------------------------------------------
 
-    <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a>
-    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/0d19dd1b-30b5-47bc-9112-8139fde86eb0)
-
-
- 3. <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> Vacuum Lab Full-Stack Web App + REST API - FastAPI / Dash / HTMX / </a>
-   ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/7ccaf02d-f092-4b6a-ba67-5a60c99c0845)
-
-
-    
- 4.  <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br>
+> <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> 2. Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br><br>
+  <a href= https://medium.com/@kwh0725/voice-of-the-customer-voc-web-scraping-and-nlp-pipeline-with-python-17fd72f82167> Click for Medium Article </a>
     ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/ec6ec417-98de-463d-a044-cd9f80a35fd3)
+------------------------------------------
 
-
-
- 5. <a href= https://github.com/kwoolaid725/us-house-env-research-etl> US House Research ETL (Zillow) </a> <br>
+>  <a href= https://github.com/kwoolaid725/us-house-env-research-etl> 3. U.S. Residential Environmental Data Research ETL </a> <br>
    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/a79e0d92-13c2-4b4d-9809-50f1cfd77ae8)
 
+---------------------------------------------
 
+ > <a href= https://github.com/kwoolaid725/cr-rankings-etl-onprem> 4. Consumer Reports Rankings ETL - OnPrem ver. </a> <br>
+    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/3f31379b-79c6-41c3-a667-8ecc8466fc68)
 
-     
--------------------------------------------------------
-**Side Projects** 
+>  <a href= https://github.com/kwoolaid725/cr-rankings-etl-pipeline> (Migrating for Learning Purposes) Consumer Reports Rankings ETL - Dockerized / Airflow /   PySpark / AWS S3 / Superset  </a>
+    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/0d19dd1b-30b5-47bc-9112-8139fde86eb0)
 
- 6. <a href= https://github.com/kwoolaid725/UL-Standards-Classify> UL Standards Classification ETL  </a>
- 7. End-to-End Spotify
+-----------------------------------------------
+
+> <a href= https://github.com/kwoolaid725/vacuum-fastapi-dash-etl-app> 5. Vacuum Lab Full-Stack Web App + REST API - FastAPI / Dash / HTMX / </a>
+   ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/7ccaf02d-f092-4b6a-ba67-5a60c99c0845)
+  
+-------------------------------------------------
+
+ > <a href= https://github.com/kwoolaid725/UL-Standards-Classify> 6. UL Standards Classification ETL  </a>
+
+ ------------------------------------------------
+ > <a href= https://github.com/kwoolaid725/spotify_etl> 7. End-to-End Spotify </a>
    ![image](https://github.com/kwoolaid725/kwoolaid725/assets/107806433/7ae35a91-96e8-4d44-a814-3e9d9eb9dc33)
 
 --------------------------------
@@ -41,14 +45,6 @@
 OpenCV Robot Vac Navigation
  - OpenCV
 
-
-
-
-< Old Automation Tools > 
-
-- Python codes
-- Excel VBA Codes
-  
 
 
 <h2> Connect with me:</h2>
