@@ -13,7 +13,9 @@
 --------------------------------------------
 
 > <a href= https://github.com/kwoolaid725/voc_scraper_nlp_api/> 2. Voice of Customer (VoC)/ Customer Reviews NLP End-to-End ETL + API WebApp </a> <br><br>
-   <a href= https://medium.com/@kwh0725/voice-of-the-customer-voc-web-scraping-and-nlp-pipeline-with-python-17fd72f82167> >> Click for Medium Article </a>
+
+Click for Medium Article >>
+   <a href= https://medium.com/@kwh0725/voice-of-the-customer-voc-web-scraping-and-nlp-pipeline-with-python-17fd72f82167> Voice of the Customer (VoC) Web Scraping and NLP Pipeline with Python </a>
 
   <img width="750" alt="image" src="https://github.com/kwoolaid725/kwoolaid725/assets/107806433/ec6ec417-98de-463d-a044-cd9f80a35fd3">
  
