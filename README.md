@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
-**Projects**
 --------------------------------------------
 
 > <a href= https://github.com/kwoolaid725/job-compass-app/tree/main>  'Job Compass' Web Application - Web scraping, ETL, Airflow, Docker, FastAPI, Streamlit
